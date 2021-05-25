@@ -1,0 +1,32 @@
+body{
+    background-color: #8CC9C1; /* For browsers that do not support gradients */
+    background-image: linear-gradient(#8CC9C1, #ffffff);
+}
+.form-wrap {
+    padding: 20px 20px;
+    background: #cae9da;
+    box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.80)!important;
+}
+
+.info-heading {
+    padding: 4px 0;
+    background: #df9d59;
+}
+
+.info {
+    border: 1px solid #fbf9f9;
+}
+
+.info-body {
+    padding: 0 20px;
+}
+.top-search-bar {
+    padding: 10px 0;
+    width: 68%;
+    margin-left: 16%;
+}
+
+.custom_font_size{
+    font-size: 16px!important;
+    font-family: Arial, Helvetica, sans-serif!important;
+}
